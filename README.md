@@ -1,6 +1,6 @@
-# BeckdeFabus
->;(
+### Exemplo de execução
 
+```
 ==========================
    SISTEMA BANCÁRIO
 ==========================
@@ -44,3 +44,4 @@ Saldo atual: R$ 300,00
 4 - Sair
 Escolha uma opção: 4
 Obrigado por utilizar nosso sistema!
+```
